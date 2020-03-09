@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xy-admin-service" />
+        <module name="xy-admin-dao" />
+        <module name="xy-framework" />
+        <module name="xy-admin-entity" />
+        <module name="xy-admin-web" />
+        <module name="xy-shop-web" />
+        <module name="xy-shop-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xy" target="1.8" />
+      <module name="xy-admin-dao" target="1.8" />
+      <module name="xy-admin-entity" target="1.8" />
+      <module name="xy-admin-service" target="1.8" />
+      <module name="xy-admin-web" target="1.8" />
+      <module name="xy-framework" target="1.8" />
+      <module name="xy-shop-dao" target="1.8" />
+      <module name="xy-shop-entity" target="1.8" />
+      <module name="xy-shop-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="xy" options="" />
+      <module name="xy-admin-dao" options="-parameters" />
+      <module name="xy-admin-entity" options="-parameters" />
+      <module name="xy-admin-service" options="-parameters" />
+      <module name="xy-admin-web" options="-parameters" />
+      <module name="xy-framework" options="-parameters" />
+      <module name="xy-shop-dao" options="-parameters" />
+      <module name="xy-shop-entity" options="-parameters" />
+      <module name="xy-shop-web" options="-parameters" />
+    </option>
+  </component>
+</project>

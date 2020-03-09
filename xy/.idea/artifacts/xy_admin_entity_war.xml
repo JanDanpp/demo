@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xy-admin-entity:war">
+    <output-path>$PROJECT_DIR$/xy-admin-entity/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xy-admin-entity</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xy-admin-entity-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xy-admin-entity:war exploded" />
+    </root>
+  </artifact>
+</component>

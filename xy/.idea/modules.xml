@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xy.iml" filepath="$PROJECT_DIR$/xy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-admin-dao/xy-admin-dao.iml" filepath="$PROJECT_DIR$/xy-admin-dao/xy-admin-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-admin-entity/xy-admin-entity.iml" filepath="$PROJECT_DIR$/xy-admin-entity/xy-admin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-admin-service/xy-admin-service.iml" filepath="$PROJECT_DIR$/xy-admin-service/xy-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-admin-web/xy-admin-web.iml" filepath="$PROJECT_DIR$/xy-admin-web/xy-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-framework/xy-framework.iml" filepath="$PROJECT_DIR$/xy-framework/xy-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-shop-entity/xy-shop-entity.iml" filepath="$PROJECT_DIR$/xy-shop-entity/xy-shop-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-shop-web/xy-shop-web.iml" filepath="$PROJECT_DIR$/xy-shop-web/xy-shop-web.iml" />
+    </modules>
+  </component>
+</project>

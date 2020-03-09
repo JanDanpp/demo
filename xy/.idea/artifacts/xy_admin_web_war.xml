@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xy-admin-web:war">
+    <output-path>$PROJECT_DIR$/xy-admin-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xy-admin-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pagera.war">
+      <element id="artifact" artifact-name="xy-admin-web:war exploded" />
+    </root>
+  </artifact>
+</component>

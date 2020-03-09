@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xy-shop-dao:war">
+    <output-path>$PROJECT_DIR$/xy-shop-dao/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xy-shop-dao</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xy-shop-dao-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xy-shop-dao:war exploded" />
+    </root>
+  </artifact>
+</component>
