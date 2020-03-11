@@ -62,5 +62,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: error:spring-boot-starter-log4j2" level="project" />
   </component>
 </module>

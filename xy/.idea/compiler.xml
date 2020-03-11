@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xy-admin-service" />
         <module name="xy-admin-dao" />
+        <module name="xy-admin-service" />
         <module name="xy-framework" />
         <module name="xy-admin-entity" />
         <module name="xy-admin-web" />

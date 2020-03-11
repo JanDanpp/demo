@@ -17,20 +17,8 @@
           <element id="archive" name="xy-shop-web-0.0.1-SNAPSHOT.jar">
             <element id="module-output" name="xy-shop-web" />
           </element>
-          <element id="archive" name="xy-shop-entity-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="xy-shop-entity" />
-          </element>
           <element id="archive" name="xy-admin-web-0.0.1-SNAPSHOT.jar">
             <element id="module-output" name="xy-admin-web" />
-          </element>
-          <element id="archive" name="xy-admin-service-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="xy-admin-service" />
-          </element>
-          <element id="archive" name="xy-admin-dao-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="xy-admin-dao" />
-          </element>
-          <element id="archive" name="xy-admin-entity-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="xy-admin-entity" />
           </element>
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.2.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.2.5.RELEASE" />
@@ -69,6 +57,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: error:spring-boot-starter-log4j2" />
         </element>
       </element>
       <element id="directory" name="META-INF">
